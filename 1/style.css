@@ -1,0 +1,12 @@
+.svg-background_1 {
+  width: 32px;
+  height: 32px;
+  background: url("https://icons.getbootstrap.com/assets/icons/arrow-down-left-circle.svg")
+    no-repeat center;
+}
+.svg-background_2 {
+  width: 32px;
+  height: 32px;
+  background: url("https://icons.getbootstrap.com/assets/icons/arrow-down-left-circle-fill.svg")
+    no-repeat center;
+}
